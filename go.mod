@@ -1,4 +1,4 @@
-module goMailer
+module github.com/karasik56/goMailer
 
 go 1.19
 
